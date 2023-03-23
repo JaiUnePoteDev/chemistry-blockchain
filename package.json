@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-chimie",
+  "version": "1.0.0",
+  "description": "Pour comprendre la blockchain dans les grandes lignes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JaiUnePoteDev",
+  "license": "ISC"
+}
